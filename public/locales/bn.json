@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "crm": "সিআরএম",
+    "gisMap": "জিআইএস ম্যাপ",
+    "branches": "শাখাসমূহ",
+    "analytics": "বিশ্লেষণ",
+    "reports": "রিপোর্ট",
+    "notifications": "বিজ্ঞপ্তি",
+    "auditLog": "অডিট লগ",
+    "settings": "সেটিংস",
+    "logout": "লগআউট"
+  },
+  "dashboard": {
+    "title": "ড্যাশবোর্ড",
+    "welcome": "স্বাগতম",
+    "totalRevenue": "মোট রাজস্ব",
+    "activeLeads": "সক্রিয় লিড",
+    "conversionRate": "রূপান্তর হার",
+    "activeBranches": "সক্রিয় শাখা",
+    "recentActivity": "সাম্প্রতিক কার্যক্রম"
+  },
+  "crm": {
+    "title": "সিআরএম পাইপলাইন",
+    "addLead": "লিড যোগ করুন",
+    "importCSV": "সিএসভি আমদানি",
+    "filters": "ফিল্টার",
+    "search": "লিড খুঁজুন..."
+  },
+  "common": {
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল",
+    "delete": "মুছুন",
+    "edit": "সম্পাদনা",
+    "create": "তৈরি করুন",
+    "export": "রপ্তানি",
+    "import": "আমদানি",
+    "loading": "লোড হচ্ছে...",
+    "noData": "কোনো ডেটা পাওয়া যায়নি",
+    "active": "সক্রিয়",
+    "inactive": "নিষ্ক্রিয়"
+  }
+}
